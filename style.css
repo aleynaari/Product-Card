@@ -90,3 +90,7 @@ body {
     visibility: visible;
     transition-delay: 0.5s;
 }
+
+.card .content h2 {
+    color: #fff;
+}
