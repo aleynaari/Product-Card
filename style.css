@@ -25,4 +25,5 @@ body {
 
 .card:hover {
     width: 600px;
+    transition-delay: 0s;
 }
