@@ -93,4 +93,5 @@ body {
 
 .card .content h2 {
     color: #fff;
+    text-transform: uppercase;
 }
