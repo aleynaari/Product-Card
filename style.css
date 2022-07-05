@@ -14,3 +14,9 @@ body {
     flex-wrap: wrap;   /*moves the elements down*/
     min-height: 100vh;
 }
+
+.card {
+    position: relative;
+    width: 300px;
+    height: 350px;
+}
