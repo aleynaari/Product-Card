@@ -80,3 +80,7 @@ body {
     left: 20%;
     padding: 20px 20px 20px 40px;
 }
+
+.card:hover .content {
+    left: 0;
+}
