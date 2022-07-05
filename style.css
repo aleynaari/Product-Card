@@ -70,3 +70,10 @@ body {
     transform: scale(0);
     transition-delay: 0s; /*üstüne gelince logo yok oluyor*/
 }
+
+.content {
+    position: relative;
+    width: 50%;
+    left: 20%;
+    padding: 20px 20px 20px 40px;
+}
