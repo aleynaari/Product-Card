@@ -55,3 +55,8 @@ body {
 .card:hover .circle::before {
     clip-path: circle(400px at center);
 }
+
+.card .circle .logo {
+    position: relative;
+    width: 200px;
+}
