@@ -137,4 +137,8 @@ body {
         max-width: 350px;
         align-items: flex-start;
     }
+
+    .card:hover {
+        height: 600px;
+    }
 }
