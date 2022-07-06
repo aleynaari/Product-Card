@@ -141,4 +141,12 @@ body {
     .card:hover {
         height: 600px;
     }
+
+    .card:hover .product_img {
+        top: initial;
+        bottom: 30px;
+        left: 50%;
+        transform: translate(-50%,-0%) scale(1);
+        height: 300px;
+    }
 }
