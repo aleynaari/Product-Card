@@ -112,3 +112,12 @@ body {
     text-decoration: none;
     font-weight: 500;
 }
+
+.card .product_img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%) scale(0);
+    height: 300px;
+    transition: 0.5s;
+}
